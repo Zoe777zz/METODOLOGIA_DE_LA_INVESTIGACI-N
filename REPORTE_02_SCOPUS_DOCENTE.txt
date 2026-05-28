@@ -1,0 +1,45 @@
+Scopus
+EXPORT DATE: 20 May 2026
+
+Ulukok M.K.
+AUTHOR FULL NAMES: Ulukok, Mehtap Kose (25645142300)
+25645142300
+Impact of genetic algorithm's parameters on solution of numerical optimization benchmark problems
+(2017) Proceedings - 9th International Conference on Computational Intelligence and Communication Networks, CICN 2017, 2018-January, pp. 139 - 143, Cited 2 times.
+DOI: 10.1109/CICN.2017.8319373
+https://www.scopus.com/pages/publications/85050728176?origin=resultslist
+
+AUTHOR KEYWORDS: benchmark functions; genetic algorithm; optimization; performance
+INDEX KEYWORDS: Benchmarking; Combinatorial optimization; Numerical methods; Population statistics; Algorithm parameters; Benchmark functions; Benchmark problems; Combinatorial optimization problems; Engineering problems; Numerical optimizations; Optimisations; Performance; Population sizes; Search method; Genetic algorithms
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wang D.D., Tieu A.K., D'Alessio G.
+AUTHOR FULL NAMES: Wang, D.D. (36457967600); Tieu, A.K. (7006165349); D'Alessio, Giovanni (56256917100)
+36457967600; 7006165349; 56256917100
+Computational intelligence-based process optimization for tandem cold rolling
+(2005) Materials and Manufacturing Processes, 20 (3), pp. 479 - 496, Cited 31 times.
+DOI: 10.1081/AMP-200053535
+https://www.scopus.com/pages/publications/19944362203?origin=resultslist
+
+AUTHOR KEYWORDS: Computational intelligence; Constraints; Cost function; Engineering problem; Genetic algorithms; Heuristic optimization; Intelligent system; Manufacturing process; Materials processing; Multiple-objective problem solving; Process modeling; Process optimization
+INDEX KEYWORDS: Constraint theory; Costs; Genetic algorithms; Heuristic methods; Intelligent agents; Optimization; Problem solving; Scheduling; Constraints; Cost functions; Engineering problems; Heuristic optimization; Intelligent systems; Manufacturing processes; Materials processing; Multi-objective problem solving; Process modeling; Process optimization; Cold rolling
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Caroline S., Beno M.M.
+AUTHOR FULL NAMES: Caroline, S. (57215416481); Beno, M. Marsaline (57219368574)
+57215416481; 57219368574
+A grey wolf optimized 15-level inverter design with confined switching components
+(2022) Intelligent Automation and Soft Computing, 31 (3), pp. 1753 - 1769, Cited 0 times.
+DOI: 10.32604/IASC.2022.020440
+https://www.scopus.com/pages/publications/85118649575?origin=resultslist
+
+AUTHOR KEYWORDS: Grey Wolf Optimization; Multilevel Inverter; Pulse Width Modulation; Total Harmonic Distortion
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
